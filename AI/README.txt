@@ -1,0 +1,1 @@
+Pentago_AI is a folder that contains code produced by a TA for the COMP 424 course at McGill for a game called pentago swap. The AI agent that I coded is in the file "Pentago_AI/src/student_player/StudentPlayer.java". Its strategy revolves around Monte Carlo simulations and ranked 22/289 when playing against other students' agents in the class.
