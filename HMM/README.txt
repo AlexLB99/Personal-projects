@@ -1,0 +1,1 @@
+MyHMM implements the Baum-Welch algorithm, the Viterbi algorithm as well as a data generation method.
